@@ -19,3 +19,4 @@ This app was created to test the possibilities of ChatGPT API.
 </p>
 
 ### GitHub Pages
+https://mariaklo.github.io/mariagpt/
